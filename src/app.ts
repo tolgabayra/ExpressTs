@@ -8,7 +8,7 @@ const myList: Array<any> = [1,2,3,"sdfsd",true]
 
 
 app.get("/", (req,res) => {
-  res.send("Hello bitch!")
+  res.send("Hello babyy!")
 })
 
 app.use(morgan("dev"))
